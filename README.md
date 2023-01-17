@@ -1,5 +1,5 @@
 # Weather With Laravel 9
-Laravel OpenWeather API (openweather-laravel-api) is a Laravel package to connect Open Weather Map APIs ( https://openweathermap.org/api ) and access free API services (current weather, weather forecast, weather history) easily.
+Laravel OpenWeather with Laravel package to connect Open Weather Map APIs ( https://openweathermap.org/api ) and access free API services (current weather, weather forecast, weather history) easily.
 
 ![alt text](https://repository-images.githubusercontent.com/589770672/cd7e419a-7238-4e09-b258-f0afe8713a7d)
 
@@ -23,7 +23,7 @@ https://openweathermap.org/weather-conditions#How-to-get-icon-URL
 git clone https://github.com/chongdev/weather-laravel9
 ```
 
-### Install laravel
+### Install Laravel
 ``` s
 composer install
 ```
