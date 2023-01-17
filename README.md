@@ -18,9 +18,18 @@ https://openweathermap.org/weather-conditions#How-to-get-icon-URL
 
 ## Installation
 
+### Clone the repository
+``` s
+git clone https://github.com/chongdev/weather-laravel9
 ```
-Add API key and desired language in `.env`
+
+### Install laravel
+``` s
+composer install
 ```
+
+### Add API key and desired language in `.env`
+``` s
 OPENWAETHER_API_KEY=
 OPENWAETHER_API_LANG=en
 ```
